@@ -1,6 +1,6 @@
 {
   "name": "promise-to-callback",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert promise to callback interface",
   "license": "MIT",
   "repository": "stevemao/promise-to-callback",
