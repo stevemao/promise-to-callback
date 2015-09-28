@@ -2,8 +2,6 @@
 
 > Convert promise to callback interface
 
-Because there are many promise implementations and callbacks are better to handle errors.
-
 
 ## Install
 
